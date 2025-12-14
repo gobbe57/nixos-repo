@@ -327,7 +327,7 @@ in
     pkgs.nuclear
     pkgs.betterdiscordctl
     pkgs.github-desktop
-    # riktig neger pkgs.minecraft
+    # riktig äckel pkgs.minecraft
     winetricks
     wineWowPackages.stable
     wineWowPackages.waylandFull
